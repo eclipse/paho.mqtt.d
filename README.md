@@ -1,5 +1,7 @@
 # Eclipse Paho MQTT D client library
 
+**This project is no longer maintained.**
+
 This repository contains the source code for the [Eclipse Paho](http://eclipse.org/paho) MQTT D client library on memory-managed operating systems such as Linux/Posix and Windows.
 
 *Note that this library is currenly in an early incubation phase. Although the code is operational, the overall project is lacking in essentials such as a complete implementation, proper documentation, and basic testing.*
